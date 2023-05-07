@@ -18,24 +18,23 @@
                     <div class="main-menu-wrapper">
                         <div class="menu-header">
                             <a href="index.html" class="menu-logo">
-                                <h2 style="color:white;">SpeedServe</h2>
+                                <img src="{{asset('Logo PNG 5.png')}}">
                             </a>
                             <a id="menu_close" class="menu-close" href="javascript:void(0);">
                                 <i class="fas fa-times"></i>
                             </a>
                         </div>
                         <ul class="main-nav">
-                            <li class="active has-submenu">
-                                <a href="index.html">Home <i class="fas fa-chevron-down"></i></a>
-                                <ul class="submenu">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="index-two.html">Home 2</a></li>
-                                    <li><a href="index-three.html">Home 3</a></li>
-                                    <li><a href="index-four.html">Home 4</a></li>
-                                    <li class="active"><a href="index-five.html">Home 5</a></li>
-                                </ul>
+                            <li class="active">
+                                <a href="">Home</a>
                             </li>
-                            <li class="has-submenu">
+                             <li class="active">
+                                <a href="">About</a>
+                            </li>
+                             <li class="active">
+                                <a href="">Contact</a>
+                            </li>
+                            {{-- <li class="has-submenu">
                                 <a href="#">For Employers<i class="fas fa-chevron-down"></i></a>
                                 <ul class="submenu">
                                     <li class="has-submenu">
@@ -110,13 +109,13 @@
                                     <li><a href="blog-grid.html">Blog Grid</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div>
                     <ul class="nav header-navbar-rht text-center">
                         <li><a href="register.html" class="reg-btn"> Register</a></li>
                         <li><a href="login.html" class="log-btn btn"> Login</a></li>
-                        <li><a href="post-project.html" class="login-btn btn">Post a Project </a></li>
+                        {{-- <li><a href="post-project.html" class="login-btn btn">Post a Project </a></li> --}}
                     </ul>
                 </div>
             </nav>

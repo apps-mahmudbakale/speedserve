@@ -163,7 +163,7 @@ body {
 	font-size: 16px;
 }
 .body-five {
-	background-color: #1F1C1C;
+	background-color: #da5238;
 	color: #000;
 	font-size: 16px;
 }
@@ -2397,7 +2397,7 @@ label {
 	color: #fff;
 }
 .header.header-five.sticky {
-    background: #000;
+    background:#da5238;
 	border-bottom: 1px solid #fff;
 }
 .header-five .main-nav > li.active > a::after {

@@ -5,7 +5,7 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="logo-footer">
                                 <a href="index.html" class="navbar-brand logo">
-                                    <img src="assets/img/logo-footer.png" class="img-fluid" alt="Logo">
+                                    <img src="{{asset('Logo PNG 5.png')}}" class="img-fluid" alt="Logo">
                                 </a>
                             </div>
                             <div class="text-footer">
@@ -76,7 +76,7 @@
                         <div class="row">
                             <div class="col-md-6 col-lg-6">
                                 <div class="copyright-text">
-                                    <p class="mb-0">&copy; 2022 All Rights Reserved</p>
+                                    <p class="mb-0">&copy; {{date('Y')}} All Rights Reserved</p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-6 right-text">

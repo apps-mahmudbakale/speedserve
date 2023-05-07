@@ -14,9 +14,9 @@
                                     <i class="fas fa-star checked"></i>
                                 </div>
                                 <h5>Trused by over 2M+ users</h5>
-                                <h1>Get the perfect <span class="orange-text">Developers & Projects</span></h1>
+                                <h1>Service <span class="orange-text">at your Finger Tips</span></h1>
                                 <form class="form" name="store" id="store" method="post"
-                                    action="https://kofejob.dreamguystech.com/template/project.html">
+                                    action="">
                                     <div class="form-inner">
                                         <div class="input-group">
                                             <span class="drop-detail">
@@ -56,11 +56,11 @@
                                 <div class="col-lg-6 col-md-6 budget-position">
                                     <div class="budget-creative">
                                         <div class="perfect-group aos" data-aos="fade-up">
-                                            <h2>I NEED A DEVELOPED PROJECT</h2>
-                                            <p>Get the perfect Developed project for your budget from our creative
+                                            <h2>I NEED AN ELECTRICIAN</h2>
+                                            <p>Get the perfect service for your need from our creative & professional
                                                 community.</p>
                                             <div class="view-face">
-                                                <a href="project.html" class="btn btn-primary"><i
+                                                <a href="" class="btn btn-primary"><i
                                                         class='fas fa-arrow-right'></i></a>
                                             </div>
                                         </div>
@@ -69,10 +69,10 @@
                                 <div class="col-lg-6 col-md-6">
                                     <div class="perfect-group work-to aos" data-aos="fade-up">
                                         <h2>I WANT TO WORK</h2>
-                                        <p>Do you want to earn money, find unlimited clients and build your freelance
+                                        <p>Do you want to earn money, find unlimited clients and build your artisan freelance
                                             career?</p>
                                         <div class="view-work">
-                                            <a href="developer.html" class="btn btn-primary"><i
+                                            <a href="" class="btn btn-primary"><i
                                                     class='fas fa-arrow-right'></i></a>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@
                     <div class="row">
                         <div class="col-12 col-md-12 mx-auto">
                             <div class="section-header section-three section-five text-center aos" data-aos="fade-up">
-                                <h2 class="header-title">Get Inspired By <span> Development Projects</span></h2>
+                                <h2 class="header-title">Get Inspired By <span> Professional Artisan</span></h2>
                                 <p>High Performing Solutions To Your</p>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                 <div class="develop-role d-flex justify-content-between align-items-center">
                                     <div class="project-content">
                                         <h4>45</h4>
-                                        <h5><a href="project.html">ANDROID </a></h5>
+                                        <h5><a href="project.html">CARPENTERS </a></h5>
                                     </div>
                                     <div class="pro-icon">
                                         <div class="project-icon">
@@ -115,7 +115,7 @@
                                     </div>
                                     <div class="project-content">
                                         <h4>20</h4>
-                                        <h5><a href="project.html">Developers</a></h5>
+                                        <h5><a href="project.html">Artisans</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -131,7 +131,7 @@
                                 <div class="develop-role apps-color d-flex justify-content-between align-items-center">
                                     <div class="project-content">
                                         <h4>45</h4>
-                                        <h5><a href="project.html">LARAVEL</a></h5>
+                                        <h5><a href="project.html">ELECTRICIANS</a></h5>
                                     </div>
                                     <div class="pro-icon">
                                         <div class="project-icon">
@@ -139,7 +139,7 @@
                                     </div>
                                     <div class="project-content">
                                         <h4>20</h4>
-                                        <h5><a href="project.html">Developers</a></h5>
+                                        <h5><a href="project.html">Artisans</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 <div class="develop-role d-flex justify-content-between align-items-center">
                                     <div class="project-content">
                                         <h4>45</h4>
-                                        <h5><a href="project.html">React</a></h5>
+                                        <h5><a href="project.html">PAINTERS</a></h5>
                                     </div>
                                     <div class="pro-icon">
                                         <div class="project-icon">
@@ -163,7 +163,7 @@
                                     </div>
                                     <div class="project-content">
                                         <h4>20</h4>
-                                        <h5><a href="project.html">Developers</a></h5>
+                                        <h5><a href="project.html">Artisans</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -179,7 +179,7 @@
                                 <div class="develop-role apps-color d-flex justify-content-between align-items-center">
                                     <div class="project-content">
                                         <h4>45</h4>
-                                        <h5><a href="project.html">GOLANG</a></h5>
+                                        <h5><a href="project.html">MECHANICS</a></h5>
                                     </div>
                                     <div class="pro-icon">
                                         <div class="project-icon">
@@ -187,7 +187,7 @@
                                     </div>
                                     <div class="project-content">
                                         <h4>20</h4>
-                                        <h5><a href="project.html">Developers</a></h5>
+                                        <h5><a href="project.html">Artisans</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -197,7 +197,7 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="see-all btn-three aos" data-aos="fade-up">
-                                <a href="project.html" class="btn all-btn">SEE ALL PROJECT <i
+                                <a href="project.html" class="btn all-btn">SEE ALL CATEGORIES <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -211,7 +211,7 @@
             <div class="position-three position-five">
                 <div class="container">
                     <div class="section-header section-three section-five aos" data-aos="fade-up">
-                        <h2 class="header-title"><span>Most Hired</span> Developers</h2>
+                        <h2 class="header-title"><span>Most Hired</span> Artisans</h2>
                         <p>Work with talented people at the most affordable price</p>
                     </div>
                     <div class="row">
@@ -562,77 +562,6 @@
                 </div>
             </div>
         </section>
-
-
-        <section class="section news news-three news-five">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="section-header section-three section-five text-center aos" data-aos="fade-up">
-                            <h2 class="header-title"><span>Latest</span> Blog</h2>
-                            <p>Have a Look Our Blog</p>
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div class="row blog-grid-row justify-content-center">
-                        <div class="col-lg-4 col-md-6">
-
-                            <div class="blog grid-blog aos" data-aos="fade-up">
-                                <div class="blog-image">
-                                    <a href="blog-details.html"><img class="img-fluid"
-                                            src="assets/img/blog/blog-10.jpg" alt="Post Image"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <h3 class="blog-title"><a href="blog-details.html">Your next job starts right here
-                                            starts right here</a></h3>
-                                    <ul class="entry-meta meta-item">
-                                        <li> 3 Nov 2021 <i class="fas fa-calendar-week"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-
-                            <div class="blog grid-blog aos" data-aos="fade-up">
-                                <div class="blog-image">
-                                    <a href="blog-details.html"><img class="img-fluid"
-                                            src="assets/img/blog/blog-11.jpg" alt="Post Image"></a>
-                                </div>
-                                <div class="blog-content blog-blue">
-                                    <h3 class="blog-title"><a href="blog-details.html">Kofejob - How to get job
-                                            through online?</a></h3>
-                                    <ul class="entry-meta meta-item">
-                                        <li>3 Nov 2021 <i class="fas fa-calendar-week"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-
-                            <div class="blog grid-blog aos" data-aos="fade-up">
-                                <div class="blog-image">
-                                    <a href="blog-details.html"><img class="img-fluid"
-                                            src="assets/img/blog/blog-10.jpg" alt="Post Image"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <h3 class="blog-title"><a href="blog-details.html">Your next job starts right here
-                                            starts right here</a></h3>
-                                    <ul class="entry-meta meta-item">
-                                        <li> 3 Nov 2021 <i class="fas fa-calendar-week"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
         <section class="subscribe-three subscribe-five">
             <div class="container">
                 <div class="discount-more ">
